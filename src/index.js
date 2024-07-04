@@ -10,5 +10,5 @@ ReactDOM.render(
 </authContext.Provider>
 ,
 document.getElementById('root'))
-// console.log('index.js');
+
 
